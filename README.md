@@ -8,7 +8,7 @@
 
 Vermeer Automotive is a dealer management system designed to support the day-to-day workflow of an automotive garage — from a customer's service request through diagnosis, repair and invoicing.
 
-The system was originally developed during **BPSET** as a group project by a team of five Software Engineering students. We designed the application around a polyglot microservices architecture, where individual services were responsible for their own business domain and data.
+The system was developed as a group Software Engineering project by a team of five students. We designed the application around a polyglot microservices architecture, with each service responsible for its own business domain and data.
 
 The project was later extended during my individual **BPSEE** project. For this follow-up, I researched how the existing AI functionality could be moved from external AI providers towards a **self-hosted open-source language model**.
 
